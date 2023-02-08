@@ -1,2 +1,2 @@
 # schMUN
-BACAN que miras paiaso
+BACAN que miras paiaso xd
