@@ -14,14 +14,17 @@ N_p = Nombre del proyecto
    2. Lectura: ..., [Fomentar esta actividad como pasatiempo y  sus beneficios]
    3. Arte: ..., [La creatividad como la base del pensamiento critico y su uso para la resolucion de problemas...]
    4. ...
-    
+# ¿Que es un MUN?
+De sus siglas, MUN significa, de sus siglas en ingles, 'Modelo de Naciones unidas'; y es un modelo de debate que simula una cumbre de las organizacion de las naciones unidas. Reparte problematicas de diferentes indoles en *comites* compuestos de *delegados* los cuales debatiran sobre que medidas implementar para solucionar dichas problematicas, asi exponiendo sus ideas, creando alianzas y redactando proyectos de resolucion. 
+# Concepto
+- [N_p] es un debate con la esencia de un MUN. Un modelo de debate que reparte diferentes problematicas a debatir en comites conformados por delegados; de esta manera, proporcionando diversidad en los temas a investigar y debatir, asi,  atrayendo a personas de distintos intereses.
+
+
 # Definiciones:
-- **Comite**: Categoria que abarca un tema de debate. Ej: **El comite de la 'OEA' discutira sobre 'Tema de debate'.**
+- **Comite**: Categoria que abarca un tema de debate. Ej: **El comite de 'SPECPOL' discutiran sobre 'El uso de drones como armas'.**
 - **Delegado**: Aquel que representa la postura de un pais frente a un problema discutido en un Comite. Ej: **El delegado de Estados unidos afirmo que se estan dispuestos a colaborar en un plan para disminuir el uso de drones en las fronteras**
 - **Representante de mesa/Mesa directiva**: Encargado(s) de organizar y hacer avanzar el debate de un comite, quienes tambien podran contar con un asistente para agilizar los ?[quehaceres]. Ej: **La mesa directiva de la OEA suspendio el debate por un receso para almorzar**
 - 
-# Concepto
-- [N_p] es un debate con la esencia de un MUN. Un modelo de debate que reparte diferentes problematicas a debatir en comites conformados por delegados; de esta manera, proporcionando diversidad en los temas a investigar y debatir, asi,  atrayendo a personas de distintos intereses.
 - ## Informacion general
 - Duracion del evento: 3 dias
 - Aforo: 150-200 personas (Incluyendo delegados, mesas directivas, asistentes y personal administrativo)
@@ -29,14 +32,16 @@ N_p = Nombre del proyecto
 # Desarrollo
 -   ## Primera etapa : 'Preparativos'
     - ### Reclutamiento y capacitacion
-        sobre profesores y alumons que sean asistentes o XD
+        **Disposiciones** : 
+        1. Personal, para que sean [Mesas directivas, asistentes de mesa, y de tipo administrativo] Estimado, un equipo de 25- personas. [x] Puestos flexibles como asistente de mesa podrian ser llenados por alumnos voluntarios.
+        2.    
+
     - ### Creacion de guias
         Investigacion para crear las guias de estudio para diferentes comitets...
     - ### Acondicionamiento de aulas?
     - ### Creacion de material audiovisual
         Placards, carnets de identificacion, diplomas, etc.
     - 
-
 - ## Segunda etapa : 'Produccion'
   - ### Inviatcion a colegios vecinos
     Quizas no nos acepten una invitacion sin pruebas asi que mejor primero hacemos el material y despues lo usamos como prueba de fidelidad de nuestro evento.
