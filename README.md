@@ -1,2 +1,0 @@
-# schMUN
-BACAN
