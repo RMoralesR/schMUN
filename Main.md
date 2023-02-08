@@ -40,7 +40,7 @@ N_p = Nombre del proyecto
 - ## Segunda etapa : 'Produccion'
   - ### Inviatcion a colegios vecinos
     Quizas no nos acepten una invitacion sin pruebas asi que mejor primero hacemos el material y despues lo usamos como prueba de fidelidad de nuestro evento.
-  - ### Acondicionamiento de aulas?
+  - ### Acondicionamiento de aulas?a
           
 ---
      Lo que viene mas abajo son notas que tomo mientras que escribo esto 🤨
